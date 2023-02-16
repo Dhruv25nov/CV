@@ -1,2 +1,2 @@
 # Resume
-Resume made using only html
+Resume made using only HTML
